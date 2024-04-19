@@ -1,4 +1,4 @@
-1. TallyKhata is a digital book keeping app.
+1. TallyKhata is a digital book keeping app with Digital Wallet TallyPay Liscence from Bangladesh Bank.
 2. MSMEs ( Micro, Small and Medium) Enterprises use this Digital book for maintaining their day by day business transactions
 3. I have analyzed and asses their data for predicting wheather they are eligible for providing loan or not.
 
